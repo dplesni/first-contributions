@@ -3113,6 +3113,7 @@ p3tun1a
 - [Mostafa Ekbal](https://github.com/mostafaEkbal)
 - [flowers_lover](https://github.com/drybashlykov)
 - [Keanu Lagundimao](https://github.com/yatfu)
+- [David Plesnik](https://github.com/dplesni)
 
 # sample contribution change
 
